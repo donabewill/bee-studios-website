@@ -2,8 +2,8 @@ import './globals.css';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Spline',
-  description: 'Generated from Spline',
+  title: 'Bee Studios',
+  description: 'a software studio building in nyc',
 };
 
 export default function RootLayout({
